@@ -2,7 +2,8 @@
 
 #-------------------------------# 
 Juan Sebastian Castro (201813107) (js.castrog@uniandes.edu.co) 
-Juan Diego Calixto (202020774) (j.calixto@uniandes.edu.co) #-------------------------------#
+Juan Diego Calixto (202020774) (j.calixto@uniandes.edu.co) 
+#-------------------------------#
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
